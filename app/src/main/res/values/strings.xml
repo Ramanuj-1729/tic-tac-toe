@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+
+    <string name="homeTile">Tic Tac Toe</string>
+    <string name="playButton">Play</string>
+
+    <string name="playerSetupTitle">Enter Your Name</string>
+    <string name="label1">Player 1</string>
+    <string name="label2">Player 2</string>
+    <string name="submitButton">Submit</string>
+    <string name="nameHint">Enter Your Name</string>
+
+    <string name="Front_Image">our front page image</string>
+    <string name="title_activity_game_display">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="playAgainButton">Play Again</string>
+    <string name="homeButton">Home</string>
+
+    <string name="grid">our main grid</string>
+
+    <string name="status"></string>
+
+
+</resources>
